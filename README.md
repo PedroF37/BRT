@@ -24,7 +24,7 @@ A ferramenta usa recursividade no diretório alvo
 
 `-re|--replace-ext` Substitui antigo por novo depois de string alvo, mas filtra pela extensão
 
-`-d|--delete` Deletar string no nome dos arquivos
+`-d|--delete` Deleta string no nome dos arquivos
 
 `-de|--delete-ext` Deleta string no nome dos arquivos, mas filtra pela extensão
 #
