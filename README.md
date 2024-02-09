@@ -1,5 +1,5 @@
 # BRT-BulkRenamingTool
-## Ferramenta de Renomeação em Massa feita em C
+## Ferramenta de Renomeação em Massa em C
 brt é um utilitário de linha de comando que permite fazer a renomeação em massa de arquivos.
 #
 ## Funcionalidades:
