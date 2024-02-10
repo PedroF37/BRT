@@ -18,7 +18,7 @@ A ferramenta usa recursividade no diretório alvo
 
 `-ae|--add-ext` Adiciona string após string alvo, mas filtra pela extensão
 
-`-ie|--insert-ext` Insere string no inicio mas filtra pela extensão
+`-ie|--insert-ext` Insere string no inicio, mas filtra pela extensão
 
 `-r|--replace` Substitui antigo por novo após string alvo
 
