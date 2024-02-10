@@ -16,13 +16,13 @@ A ferramenta usa recursividade no diretório alvo
 
 `-i|--insert` Insere string no inicio
 
-`-ae|--add-ext` Adiciona string depois de string alvo, mas filtra pela extensão
+`-ae|--add-ext` Adiciona string após string alvo, mas filtra pela extensão
 
 `-ie|--insert-ext` Insere string no inicio mas filtra pela extensão
 
-`-r|--replace` Substitui antigo por novo depois de string alvo
+`-r|--replace` Substitui antigo por novo após string alvo
 
-`-re|--replace-ext` Substitui antigo por novo depois de string alvo, mas filtra pela extensão
+`-re|--replace-ext` Substitui antigo por novo após string alvo, mas filtra pela extensão
 
 `-d|--delete` Deleta string no nome dos arquivos
 
