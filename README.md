@@ -5,7 +5,7 @@ brt (Bulk Renaming Tool), é um utilitário de linha de comando que permite faze
 ## Funcionalidades:
 * `Inserir texto no inicio`
 * `Adicionar texto depois de string alvo`
-* `Substrituir texto antigo por novo texto`
+* `Substituir texto antigo por novo texto`
 * `Deletar texto em nome de arquivos`
 * `Fitrar todas estas operações pela extensão dos arquivos`
 #
