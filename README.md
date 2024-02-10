@@ -47,15 +47,15 @@ Depois é so colocar no PATH e dar as permissões necessárias
 
 Adiciona '-profissional' a todos os arquivo em Documentos que têm 'curriculum' no nome
 
-`brt ~/Imagens -i Férias-de-Verão Minhas-`
+`$ brt ~/Imagens -i Férias-de-Verão Minhas-`
 
 Insere antes de 'Férias-de-Verão' 'Minhas-' em todos os arquivos em Imagens com 'Férias-de-Verão' no nome
 
-`brt ~/Videos --add-ext Aniversário -2023`
+`$ brt ~/Videos --add-ext Aniversário -2023`
 
 Adiciona '-2023' depois de 'Aniversário' em todos os arquivos em Videos com 'Aniversário' no nome, mas apenas os que têm a extensão 'mp4'
 
-`brt ~/Videos -ie Aniversário Minha-Festa-de- mkv`
+`$ brt ~/Videos -ie Aniversário Minha-Festa-de- mkv`
 
 Insere antes de 'Aniversário' 'Minha-Festa-de-' em todos os arquivos em Videos com 'Aniversário' no nome, mas apenas os que têm a extensão 'mkv'
 
