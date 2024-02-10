@@ -51,7 +51,7 @@ Adiciona '-profissional' a todos os arquivo em Documentos que têm 'curriculum' 
 
 Insere antes de 'Férias-de-Verão' 'Minhas-' em todos os arquivos em Imagens com 'Férias-de-Verão' no nome
 
-`$ brt ~/Videos --add-ext Aniversário -2023`
+`$ brt ~/Videos --add-ext Aniversário -2023 mp4`
 
 Adiciona '-2023' depois de 'Aniversário' em todos os arquivos em Videos com 'Aniversário' no nome, mas apenas os que têm a extensão 'mp4'
 
