@@ -12,7 +12,7 @@ brt (Bulk Renaming Tool), é um utilitário de linha de comando que permite faze
 A ferramenta usa recursividade no diretório alvo
 #
 ## Opções de linha de comando:
-`-a|--add` Adiciona string depois de string alvo
+`-a|--add` Adiciona string após string alvo
 
 `-i|--insert` Insere string no inicio
 
